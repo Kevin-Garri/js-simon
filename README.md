@@ -17,6 +17,7 @@ Consigli del giorno:
 Come sempre nel primo commit mettete la consegna nel file README con anche la logica che pensate di affrontare
 
 .creo struttura html css
-.genero 5 numeri casuali con una funzione per avere array di 5 numeri
+.genero 5 numeri casuali per avere array di 5 numeri
+.dato un array con i numeri casuali stampalo in pagina
 .visualizzo i numeri usciti con timer di 10 secondi per poi scomparire
 .con una funzione verificare quali sono stati indovinati dall'utente
